@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edu.wamojo.com/sitemap.xml
